@@ -1,9 +1,12 @@
 ![Hidemichi's GitHub Banner](./images/banner.png)
 
+<br />
+
+# Hi there!👋
+
 I am a self-taught front-end developer with a strong background in HTML, CSS, JavaScript, React, Node.js, and Next.js.
 I am a experienced IT on-premise infrastructure engineer, who has developed logical-thinking, knowledge of servers/network and effective communication skills. I am also a team player who is passionate about coding and always eager to learn new technologies. I work hard in environments where thrive in fast-paced and can adapt quickly to new challenges.
 
-<br />
 <br />
 
 # Skills
@@ -21,11 +24,10 @@ I am a experienced IT on-premise infrastructure engineer, who has developed logi
 </p>
 
 <br />
-<br />
 
 # Experience
 
-## On-premise IT infrastructure engineer
+### On-premise IT infrastructure engineer
 
 Beans Labo / Japan / Jul 2020 - Jul 2022
 
@@ -33,29 +35,13 @@ Beans Labo / Japan / Jul 2020 - Jul 2022
 - Tuned servers and middle ware parameters to optimaize their performances for better service
 
 <br />
-<br />
 
 # Projects
 
-<ul>
-  <li>
-    <a href="https://github.com/HidemichiShimura/slack-cocktail-bot">
-      Slack Cocktail Bot
-    </a>
-  </li>
-  <li>
-    <a href="https://github.com/HidemichiShimura/portfolio">
-    My Portfolio Website
-    </a>
-  </li>
-  <li>
-    <a href="https://github.com/HidemichiShimura/cafe-drink-customizer">
-    Cafe Drink Customizer
-    </a>
-  </li>
-</ul>
+- <a href="https://github.com/HidemichiShimura/slack-cocktail-bot">Slack Cocktail Bot</a>
+- <a href="https://github.com/HidemichiShimura/portfolio">My Portfolio Website</a>
+- <a href="https://github.com/HidemichiShimura/cafe-drink-customizer">Cafe Drink Customizer</a>
 
-<br />
 <br />
 
 # Contact Me
@@ -70,8 +56,8 @@ Beans Labo / Japan / Jul 2020 - Jul 2022
 </p>
 
 <br />
-<br />
 
 ## License
 
 - [ICONS8](https://icons8.com/)
+- [Matt Hardy](https://unsplash.com/photos/6ArTTluciuA)
