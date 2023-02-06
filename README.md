@@ -44,6 +44,12 @@ Beans Labo / Japan / Jul 2020 - Jul 2022
 
 <br />
 
+# LeetCode achievement
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/HidemichiShimura?ext=heatmap)
+
+<br />
+
 # Contact Me
 
 <p align="left"> 
