@@ -61,6 +61,8 @@ Beans Labo / Japan / Jul 2020 - Jul 2022
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HidemichiShimura&layout=compact&theme=dark&card_width=417)](https://github.com/anuraghazra/github-readme-stats)
 
+<br />
+
 # Contact Me
 
 <p align="left"> 
