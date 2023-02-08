@@ -19,7 +19,7 @@ I am a experienced IT on-premise infrastructure engineer, who has developed logi
   <img alt="javascript" src="https://img.icons8.com/color/48/undefined/javascript--v1.png"/>
   <img alt="react" src="./images/react.png" height="45" width="45" />
   <img alt="next" src="./images/next.png"/>
-  <img alt="node" src="./images/node.png"/>
+  <img alt="node" src="https://img.icons8.com/fluency/48/null/node-js.png"/>
    <img alt="styled-components" src="./images/styled-components.png" height="48" width="48" />
     <img src="https://img.icons8.com/color/48/null/material-ui.png"/>
   <img alt="jest" src="./images/jest.png"/>
