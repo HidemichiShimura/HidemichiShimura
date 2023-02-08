@@ -19,6 +19,7 @@ I am a experienced IT on-premise infrastructure engineer, who has developed logi
   <img alt="react" src="./images/react.png" height="45" width="45" />
   <img alt="next" src="./images/next.png"/>
   <img alt="node" src="./images/node.png"/>
+   <img alt="styled-components" src="./images/styled-components.png" height="48" width="48" />
   <img alt="jest" src="./images/jest.png"/>
   <img alt="git" src="./images/git.png"/>
   <img alt="github" src="./images/github.png" />
