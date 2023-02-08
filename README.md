@@ -20,7 +20,7 @@ I am a experienced IT on-premise infrastructure engineer, who has developed logi
   <img alt="node" src="./images/node.png"/>
   <img alt="jest" src="./images/jest.png"/>
   <img alt="git" src="./images/git.png"/>
-  <img alt="github" src="https://img.icons8.com/material-outlined/48/undefined/github.png"/>
+  <img alt="github" src="./images/github.png" />
 </p>
 
 <br />
