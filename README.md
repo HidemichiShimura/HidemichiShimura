@@ -23,7 +23,7 @@ I am a experienced IT on-premise infrastructure engineer, who has developed logi
    <img alt="styled-components" src="./images/styled-components.png" height="48" width="48" />
     <img src="https://img.icons8.com/color/48/null/material-ui.png"/>
   <img alt="jest" src="./images/jest.png"/>
-  <img alt="git" src="./images/git.png"/>
+  <img alt="git" src="https://img.icons8.com/color/50/null/git.png"/>
   <img alt="github" src="./images/github.png" />
   <img src="https://img.icons8.com/color/48/null/figma--v1.png"/>
 </p>
