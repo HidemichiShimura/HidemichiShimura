@@ -20,8 +20,8 @@ I am a experienced IT on-premise infrastructure engineer, who has developed logi
   <img alt="react" src="./images/react.png" height="45" width="45" />
   <img alt="next" src="./images/next.png"/>
   <img alt="node" src="https://img.icons8.com/fluency/48/null/node-js.png"/>
-   <img alt="styled-components" src="./images/styled-components.png" height="48" width="48" />
-    <img src="https://img.icons8.com/color/48/null/material-ui.png"/>
+  <img alt="styled-components" src="./images/styled-components.png" height="48" width="48" />
+  <img src="https://img.icons8.com/color/48/null/material-ui.png"/>
   <img alt="jest" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-color-tal-revivo.png"/>
   <img alt="git" src="https://img.icons8.com/color/50/null/git.png"/>
   <img alt="github" src="./images/github.png" />
@@ -49,11 +49,17 @@ Beans Labo / Japan / Jul 2020 - Jul 2022
 
 <br />
 
-# LeetCode achievement
+# LeetCode Achievement
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/HidemichiShimura?ext=heatmap)
 
 <br />
+
+# GitHub Activity
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HidemichiShimura&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HidemichiShimura&layout=compact&theme=dark&card_width=417)](https://github.com/anuraghazra/github-readme-stats)
 
 # Contact Me
 
