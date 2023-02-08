@@ -22,7 +22,7 @@ I am a experienced IT on-premise infrastructure engineer, who has developed logi
   <img alt="node" src="https://img.icons8.com/fluency/48/null/node-js.png"/>
    <img alt="styled-components" src="./images/styled-components.png" height="48" width="48" />
     <img src="https://img.icons8.com/color/48/null/material-ui.png"/>
-  <img alt="jest" src="./images/jest.png"/>
+  <img alt="jest" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-color-tal-revivo.png"/>
   <img alt="git" src="https://img.icons8.com/color/50/null/git.png"/>
   <img alt="github" src="./images/github.png" />
   <img src="https://img.icons8.com/color/48/null/figma--v1.png"/>
