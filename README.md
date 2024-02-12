@@ -11,24 +11,23 @@ I am a experienced IT on-premise infrastructure engineer, who has developed logi
 
 # Skills
 
-<p align="left"> 
-  <img alt="html5" src="https://img.icons8.com/color/48/undefined/html-5--v1.png"/>
-  <img alt="css3" src="https://img.icons8.com/color/48/undefined/css3.png"/>
-  <img alt="sass" src="https://img.icons8.com/color/48/null/sass.png"/>
-  <img alt="bootstrap" src="./images/bootstrap.png"/>
-  <img alt="javascript" src="https://img.icons8.com/color/48/undefined/javascript--v1.png"/>
-  <img alt="typescript" src="https://img.icons8.com/fluency/48/null/typescript--v2.png"/>
-  <img alt="react" src="./images/react.png" height="45" width="45" />
-  <img alt="next" src="./images/next.png"/>
-  <img alt="node" src="https://img.icons8.com/fluency/48/null/node-js.png"/>
-  <img alt="express" src="https://img.icons8.com/ios/48/ffffff/express-js.png"/>
-  <img alt="styled-components" src="./images/styled-components.png" height="48" width="48" />
-  <img alt="material-ui" src="https://img.icons8.com/color/48/null/material-ui.png"/>
-  <img alt="jest" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-color-tal-revivo.png"/>
-  <img alt="git" src="https://img.icons8.com/color/50/null/git.png"/>
-  <img alt="github" src="https://img.icons8.com/material-outlined/48/ffffff/github.png"/>
-  <img alt="figma" src="https://img.icons8.com/color/48/null/figma--v1.png"/>
-</p>
+## Languages
+
+[![Languages](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev)
+
+## Front-End
+
+[![Frontend](https://skillicons.dev/icons?i=sass,bootstrap,tailwind,styledcomponents,jquery,react,nextjs,materialui,redux,jest)](https://skillicons.dev)
+<br />
+
+## Back-End
+
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,mongo,postgres,prisma,firebase)](https://skillicons.dev)
+<br />
+
+## Tools
+
+[![Code Management](https://skillicons.dev/icons?i=git,github,postman,vercel,webpack,vite,figma)](https://skillicons.dev)
 
 <br />
 
@@ -67,18 +66,5 @@ Beans Labo / Japan / Jul 2020 - Jul 2022
 
 # Contact Me
 
-<p align="left"> 
-  <a href="https://www.linkedin.com/in/hidemichi-shimura/" target="_blank">
-    <img src="https://img.icons8.com/color/45/null/linkedin-2--v1.png"/>
-  </a>
-  <a href="https://twitter.com/hidemichiinvan" target="_blank">
-    <img src="https://img.icons8.com/color/48/null/twitter--v1.png"/>
-  </a>
-</p>
-
-<br />
-
-## License
-
-- [ICONS8](https://icons8.com/)
-- [Matt Hardy](https://unsplash.com/photos/6ArTTluciuA)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hidemichi-shimura/)
+[![Linkedin](https://skillicons.dev/icons?i=twitter)](https://twitter.com/hidemichiinvan)
