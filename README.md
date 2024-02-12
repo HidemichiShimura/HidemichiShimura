@@ -2,14 +2,14 @@
 
 <br />
 
-# Hi there!👋
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="40" height="40" /> Hi there!
 
 I am a self-taught front-end developer with a strong background in HTML, CSS, JavaScript, React, Node.js, and Next.js.
 I am a experienced IT on-premise infrastructure engineer, who has developed logical-thinking, knowledge of servers/network and effective communication skills. I am also a team player who is passionate about coding and always eager to learn new technologies. I work hard in environments where thrive in fast-paced and can adapt quickly to new challenges.
 
 <br />
 
-# Skills
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Magic%20Wand.png" alt="Magic Wand" width="40" height="40" /> Skills
 
 ## Languages
 
@@ -31,7 +31,7 @@ I am a experienced IT on-premise infrastructure engineer, who has developed logi
 
 <br />
 
-# Experience
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Running%20Light%20Skin%20Tone.png" alt="Man Running Light Skin Tone" width="40" height="40" /> Experience
 
 ### On-premise IT infrastructure engineer
 
@@ -42,7 +42,7 @@ Beans Labo / Japan / Jul 2020 - Jul 2022
 
 <br />
 
-# Projects
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Fireworks.png" alt="Fireworks" width="40" height="40" /> Projects
 
 - <a href="https://github.com/HidemichiShimura/slack-cocktail-bot">Slack Cocktail Bot</a>
 - <a href="https://github.com/HidemichiShimura/portfolio">My Portfolio Website</a>
@@ -50,21 +50,15 @@ Beans Labo / Japan / Jul 2020 - Jul 2022
 
 <br />
 
-# LeetCode Achievement
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="40" height="40" /> Achievements
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/HidemichiShimura?ext=heatmap)
 
-<br />
-
-# GitHub Activity
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HidemichiShimura&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HidemichiShimura&layout=compact&theme=dark&card_width=417)](https://github.com/anuraghazra/github-readme-stats)
-
 <br />
 
-# Contact Me
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Down Light Skin Tone" width="40" height="40" /> Contact Me
 
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hidemichi-shimura/)
 [![Linkedin](https://skillicons.dev/icons?i=twitter)](https://twitter.com/hidemichiinvan)
