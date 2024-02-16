@@ -4,9 +4,13 @@
   Hi, I'm Hidemichi
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="200" height="200" align="center"/>
 </h1>
-<p>
-  I am a self-taught front-end developer with a strong background in HTML, CSS, JavaScript, React, Node.js, and Next.js. I am a experienced IT on-premise infrastructure engineer, who has developed logical-thinking, knowledge of servers/network and effective communication skills. I am also a team player who is passionate about coding and always eager to learn new technologies. I work hard in environments where thrive in fast-paced and can adapt quickly to new challenges.
-</p>
+<ul>
+  <li style="list-style-type: '💻 '">Self-taught web developer well-versed in modern web development</li>
+  <li style="list-style-type: '👔 '">Seasoned IT specialist focusing on on-premise infrastructure, skilled in server and network administration</li>
+  <li style="list-style-type: '🤝 '">Collaborative team player consistently mindful of colleagues</li>
+  <li style="list-style-type: '🧠 '">Enthusiastic problem solver with a penchant for tackling challenges head-on</li>
+  <li style="list-style-type: '🔥 '">Dedicated and diligent individual striving for the attainment of goals</li>
+</ul>
 
 <br />
 
@@ -99,9 +103,11 @@
   <a href="https://www.linkedin.com/in/hidemichi-shimura/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+
   <a href="mailto:hidemichi.shimra@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+
   <a href="https://profile.indeed.com/p/qjjth5m">
     <img src="https://img.shields.io/badge/Indeed-003A9B?style=for-the-badge&logo=Indeed&logoColor=white">
   </a>
