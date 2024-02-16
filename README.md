@@ -1,4 +1,4 @@
-<style>h1,h2,h3,h4 { border-bottom: 0; } </style>
+<style>h1,h2,h3,h4 { "border": "none"; } </style>
 
 ![Hidemichi's GitHub Banner](./images/banner.png)
 
