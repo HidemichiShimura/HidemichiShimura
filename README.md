@@ -69,8 +69,12 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/HidemichiShimura?border=0&radius=10)
 
+<span>
 <img src="https://github-readme-stats.vercel.app/api?username=HidemichiShimura&show_icons=true&theme=transparent&hide_border=true&title_color=39d353&icon_color=39d353&text_color=e6edf3" align="center">
+</span>
+<span>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HidemichiShimura&layout=compact" align="center">
+</span>
 
 <br />
 
