@@ -9,7 +9,7 @@
   <li style="list-style-type: '👔 '">Seasoned IT specialist focusing on on-premise infrastructure, skilled in server and network administration</li>
   <li style="list-style-type: '🤝 '">Collaborative team player consistently mindful of colleagues</li>
   <li style="list-style-type: '🧠 '">Enthusiastic problem solver with a penchant for tackling challenges head-on</li>
-  <li style="list-style-type: '🔥 '">Dedicated and diligent individual striving for the attainment of goals</li>
+  <li style="list-style-type: '&#x1f525 '">Dedicated and diligent individual striving for the attainment of goals</li>
 </ul>
 
 <br />
