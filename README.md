@@ -71,6 +71,11 @@
 <br />
 
 <h1 align="center">Contact Me</h1>
-
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hidemichi-shimura/)
-[![Linkedin](https://skillicons.dev/icons?i=twitter)](https://twitter.com/hidemichiinvan)
+<p align="center">
+  <a href="https://www.linkedin.com/in/hidemichi-shimura/">
+    <img src="https://skillicons.dev/icons?i=linkedin">
+  </a>
+  <a href="https://twitter.com/hidemichiinvan">
+  <img src="https://skillicons.dev/icons?i=twitter">
+</a>
+</p>
