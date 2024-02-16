@@ -55,17 +55,17 @@
 - Engaged in building +100 servers by using Jenkins and testing on comprehensive configurations, which contributed to successful launch of the service without server bugs.
 - Tuned servers and middle ware parameters to optimaize their performances for better service
 
-<br />
+<br /> -->
 
 <h1 align="center">Achievements</h1>
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/HidemichiShimura?border=0&radius=10)
 
 <span>
-<img src="https://github-readme-stats.vercel.app/api?username=HidemichiShimura&show_icons=true&theme=transparent&hide_border=true&title_color=39d353&icon_color=39d353&text_color=e6edf3" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=HidemichiShimura&show_icons=true&theme=transparent&hide_border=true&title_color=e6edf3&icon_color=39d353&text_color=e6edf3" align="center">
 </span>
 <span>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HidemichiShimura&layout=compact" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HidemichiShimura&layout=compact&theme=transparent&hide_border=true&title_color=e6edf3&icon_color=39d353&text_color=e6edf3" align="center">
 </span>
 
 <br />
