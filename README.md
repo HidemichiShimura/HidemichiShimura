@@ -81,9 +81,22 @@
 
 <h1 align="center">Achievements</h1>
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=hidemichishimura&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+![Leetcode Stats](https://leetcard.jacoblin.cool/HidemichiShimura?border=0&radius=10)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HidemichiShimura&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=HidemichiShimura&show_icons=true&theme=transparent&hide_border=true&title_color=39d353&icon_color=39d353&text_color=e6edf3">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HidemichiShimura&layout=compact">
+    </td>
+    <td>
+    </td>
+  </tr>
+</table>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HidemichiShimura&show_icons=true&theme=transparent&hide_border=true&title_color=39d353&icon_color=39d353&text_color=e6edf3)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HidemichiShimura&layout=compact)
 
 <br />
 
