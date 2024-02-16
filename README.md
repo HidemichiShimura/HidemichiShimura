@@ -5,11 +5,11 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="200" height="200" align="center"/>
 </h1>
 <ul>
-  <li style="list-style-type: '💻 '">Self-taught web developer well-versed in modern web development</li>
-  <li style="list-style-type: '👔 '">Seasoned IT specialist focusing on on-premise infrastructure, skilled in server and network administration</li>
-  <li style="list-style-type: '🤝 '">Collaborative team player consistently mindful of colleagues</li>
-  <li style="list-style-type: '🧠 '">Enthusiastic problem solver with a penchant for tackling challenges head-on</li>
-  <li style="list-style-type: '&#x1f525 '">Dedicated and diligent individual striving for the attainment of goals</li>
+  <li>Self-taught web developer well-versed in modern web development</li>
+  <li>Seasoned IT specialist focusing on on-premise infrastructure, skilled in server and network administration</li>
+  <li>Collaborative team player consistently mindful of colleagues</li>
+  <li>Enthusiastic problem solver with a penchant for tackling challenges head-on</li>
+  <li>Dedicated and diligent individual striving for the attainment of goals</li>
 </ul>
 
 <br />
