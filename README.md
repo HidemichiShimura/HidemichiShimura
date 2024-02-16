@@ -1,64 +1,109 @@
+<style>h1,h2,h3,h4 { border-bottom: 0; } </style>
+
 ![Hidemichi's GitHub Banner](./images/banner.png)
 
-<br />
+<div align="center">
+  <table>
+    <tr>
+      <td>
+         <h1>Hi, I'm Hidemichi</h1>
+      </td>
+      <td>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="200" height="200" />
+      </td>
+    </tr>
+  </table>
+</div>
+<p>
+  I am a self-taught front-end developer with a strong background in HTML, CSS, JavaScript, React, Node.js, and Next.js. I am a experienced IT on-premise infrastructure engineer, who has developed logical-thinking, knowledge of servers/network and effective communication skills. I am also a team player who is passionate about coding and always eager to learn new technologies. I work hard in environments where thrive in fast-paced and can adapt quickly to new challenges.
+</p>
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="40" height="40" /> Hi, I'm Hidemichi
+<br/>
 
-I am a self-taught front-end developer with a strong background in HTML, CSS, JavaScript, React, Node.js, and Next.js.
-I am a experienced IT on-premise infrastructure engineer, who has developed logical-thinking, knowledge of servers/network and effective communication skills. I am also a team player who is passionate about coding and always eager to learn new technologies. I work hard in environments where thrive in fast-paced and can adapt quickly to new challenges.
+---
 
-<br />
+<br/>
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Magic%20Wand.png" alt="Magic Wand" width="40" height="40" /> Skills
+<h1 align="center">Skills</h1>
+<table>
+  <tr>
+    <td>
+      <h3>Languages</h3>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>Front-End<h3>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=sass,bootstrap,tailwind,styledcomponents,jquery,react,nextjs,materialui,redux,jest" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>Back-End</h3>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongo,postgres,prisma,firebase">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>Tools</h3>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,webpack,vite,figma">
+    </td>
+  </tr>
+</table>
 
-## Languages
+<br/>
 
-[![Languages](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev)
+---
 
-## Front-End
+<br/>
 
-[![Frontend](https://skillicons.dev/icons?i=sass,bootstrap,tailwind,styledcomponents,jquery,react,nextjs,materialui,redux,jest)](https://skillicons.dev)
-<br />
-
-## Back-End
-
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,mongo,postgres,prisma,firebase)](https://skillicons.dev)
-<br />
-
-## Tools
-
-[![Code Management](https://skillicons.dev/icons?i=git,github,postman,vercel,webpack,vite,figma)](https://skillicons.dev)
-
-<br />
-
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Running%20Light%20Skin%20Tone.png" alt="Man Running Light Skin Tone" width="40" height="40" /> Experience
-
-### On-premise IT infrastructure engineer
-
-Beans Labo / Japan / Jul 2020 - Jul 2022
+<h1 align="center">Experience</h1>
+<h3>On-premise IT infrastructure engineer</h3>
+<h4>Beans Labo / Japan / Jul 2020 - Jul 2022</h4>
 
 - Engaged in building +100 servers by using Jenkins and testing on comprehensive configurations, which contributed to successful launch of the service without server bugs.
 - Tuned servers and middle ware parameters to optimaize their performances for better service
 
 <br />
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Fireworks.png" alt="Fireworks" width="40" height="40" /> Projects
+---
 
-- <a href="https://github.com/HidemichiShimura/slack-cocktail-bot">Slack Cocktail Bot</a>
-- <a href="https://github.com/HidemichiShimura/portfolio">My Portfolio Website</a>
-- <a href="https://github.com/HidemichiShimura/cafe-drink-customizer">Cafe Drink Customizer</a>
+<br/>
 
-<br />
+<h1 align="center">Achievements</h1>
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="40" height="40" /> Achievements
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/HidemichiShimura?ext=heatmap)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=hidemichishimura&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HidemichiShimura&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Down Light Skin Tone" width="40" height="40" /> Contact Me
+---
+
+<br/>
+
+<h1 align="center">Contact Me</h1>
 
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hidemichi-shimura/)
 [![Linkedin](https://skillicons.dev/icons?i=twitter)](https://twitter.com/hidemichiinvan)
+
+<br>
+<br>
+kjadojgiea
+
+[![Languages](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev)
+
+[![Frontend](https://skillicons.dev/icons?i=sass,bootstrap,tailwind,styledcomponents,jquery,react,nextjs,materialui,redux,jest)](https://skillicons.dev)
+
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,mongo,postgres,prisma,firebase)](https://skillicons.dev)
+
+[![Code Management](https://skillicons.dev/icons?i=git,github,postman,vercel,webpack,vite,figma)](https://skillicons.dev)
