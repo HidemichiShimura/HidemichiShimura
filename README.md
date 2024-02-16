@@ -1,12 +1,10 @@
-<style>h1,h2,h3,h4 { "border": "none"; } </style>
-
 ![Hidemichi's GitHub Banner](./images/banner.png)
 
 <div align="center">
   <table>
     <tr>
       <td>
-         <h1>Hi, I'm Hidemichi</h1>
+         <h1 style="border: none;">Hi, I'm Hidemichi</h1>
       </td>
       <td>
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="200" height="200" />
