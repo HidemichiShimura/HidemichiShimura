@@ -1,17 +1,11 @@
 ![Hidemichi's GitHub Banner](./images/banner.png)
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-         <h1>Hi, I'm Hidemichi</h1>
-      </td>
-      <td>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="200" height="200" />
-      </td>
-    </tr>
-  </table>
-</div>
+<span>
+  <h1>Hi, I'm Hidemichi</h1>
+</span>
+<span>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="200" height="200" />
+</span>
 <p>
   I am a self-taught front-end developer with a strong background in HTML, CSS, JavaScript, React, Node.js, and Next.js. I am a experienced IT on-premise infrastructure engineer, who has developed logical-thinking, knowledge of servers/network and effective communication skills. I am also a team player who is passionate about coding and always eager to learn new technologies. I work hard in environments where thrive in fast-paced and can adapt quickly to new challenges.
 </p>
