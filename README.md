@@ -42,6 +42,7 @@
       <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white">
       <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
       <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
+      <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white">
     </td>
   </tr>
   <tr>
@@ -80,8 +81,8 @@
 <h3>On-premise IT infrastructure engineer</h3>
 <h4>Beans Labo / Japan / Jul 2020 - Jul 2022</h4>
 
-- Engaged in building +100 servers by using Jenkins and testing on comprehensive configurations, which contributed to successful launch of the service without server bugs.
-- Tuned servers and middle ware parameters to optimaize their performances for better service -->
+- Engaged in building +100 servers by using Jenkins and testing on comprehensive configurations, which contributed to the successful launch of the service without server bugs.
+- Tuned servers and middleware parameters to optimize their performances for better service -->
 
 <br />
 
