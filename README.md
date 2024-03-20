@@ -82,7 +82,7 @@
 <h4>Beans Labo / Japan / Jul 2020 - Jul 2022</h4>
 
 - Engaged in building +100 servers by using Jenkins and testing on comprehensive configurations, which contributed to the successful launch of the service without server bugs.
-- Tuned servers and middleware parameters to optimize their performances for better service -->
+- Tuned servers and middleware parameters to optimize their performances for better service
 
 <br />
 
